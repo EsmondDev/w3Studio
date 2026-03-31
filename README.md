@@ -1,1 +1,1 @@
-DevOps - Ultra HD Streamer.
+DevOps - studio application.
