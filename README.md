@@ -1,1 +1,1 @@
-DevOps - studio Application.
+DevOps - Studio Application.
